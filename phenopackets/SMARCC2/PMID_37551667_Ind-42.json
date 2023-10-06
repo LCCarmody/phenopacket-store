@@ -284,13 +284,6 @@
     },
     {
       "type": {
-        "id": "HP:0000356",
-        "label": "Abnormality of the outer ear"
-      },
-      "excluded": true
-    },
-    {
-      "type": {
         "id": "HP:0001363",
         "label": "Craniosynostosis"
       },
