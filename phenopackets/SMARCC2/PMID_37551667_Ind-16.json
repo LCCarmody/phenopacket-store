@@ -418,13 +418,6 @@
     },
     {
       "type": {
-        "id": "HP:0002719",
-        "label": "Recurrent infections"
-      },
-      "excluded": true
-    },
-    {
-      "type": {
         "id": "HP:0011968",
         "label": "Feeding difficulties"
       }
