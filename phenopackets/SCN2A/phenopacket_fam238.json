@@ -66,13 +66,6 @@
         "label": "No Intellectual disability"
       },
       "excluded": true
-    },
-    {
-      "type": {
-        "id": "HP:0001250",
-        "label": "No Seizures"
-      },
-      "excluded": true
     }
   ],
   "interpretations": [
