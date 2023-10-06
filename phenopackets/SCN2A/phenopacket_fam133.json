@@ -57,13 +57,6 @@
     },
     {
       "type": {
-        "id": "HP:0002353",
-        "label": "No EEG abnormality"
-      },
-      "excluded": true
-    },
-    {
-      "type": {
         "id": "HP:0003623",
         "label": "Neonatal onset"
       }
