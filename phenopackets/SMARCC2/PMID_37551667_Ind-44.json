@@ -120,13 +120,6 @@
     },
     {
       "type": {
-        "id": "HP:0000708",
-        "label": "Atypical behavior"
-      },
-      "excluded": true
-    },
-    {
-      "type": {
         "id": "HP:0410263",
         "label": "Brain imaging abnormality"
       },
